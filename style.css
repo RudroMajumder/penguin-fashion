@@ -29,10 +29,16 @@ nav{
     background-color: #f1f1f1;
     border-radius: 10px;
 }
-.features{
-    height: 400px;
+.feature-info{
+    margin: 10px;
 }
-.feature-image{
-    height: 320px;
-    width: 300px;
+.subscribe{
+    background-color:#fffbf0;
+    height: 200px;
+}
+footer{
+    height: 50px;
+    background-color: #8da825;
+    color: white;
+    font-size: 20px;
 }
