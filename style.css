@@ -1,0 +1,38 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+header{
+    background-color: #fffbf0;
+}
+nav{
+    background-color: #fffbf0;
+}
+.nav-item{ 
+    font-weight: bold;
+    margin-right: 50px;
+    padding: 0px 15px;
+}
+.about-intro{
+    font-size: 50px;
+}
+.button{
+    border-radius: 10px;
+    background-color: #8da825;
+    color: white;
+    border: 0;
+}
+.image-cards{
+    border: 0;
+    background-color: white;
+}
+.products{
+    background-color: #f1f1f1;
+    border-radius: 10px;
+}
+.features{
+    height: 400px;
+}
+.feature-image{
+    height: 320px;
+    width: 300px;
+}
