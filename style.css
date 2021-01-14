@@ -36,6 +36,9 @@ nav{
     background-color:#fffbf0;
     height: 200px;
 }
+input{
+    width: 100%;
+}
 footer{
     height: 50px;
     background-color: #8da825;
